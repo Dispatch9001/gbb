@@ -12,8 +12,8 @@ project_entries:
     desc: The basics that you need to know before buying.
     highlight: START HERE
 
-  - title: Chosing your specs
-    url: overview-post
+  - title: What parts do you need?
+    url: parts
     desc: Pretty self explanitory
 
   - title: Buying your PC
