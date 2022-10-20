@@ -4,16 +4,16 @@ navbar_entries:
 
 project_entries:
   - title: Should I get a PC?
-    url: should-i-buy
+    url: articles/should-i-buy
     desc: If you are still on the fence about getting a PC, read this. If you are sure you want one, skip to First Steps.
 
   - title: First Steps into PC Gaming
-    url: first-steps
+    url: articles/first-steps
     desc: The basics that you need to know before buying.
     highlight: START HERE
 
   - title: What parts do you need?
-    url: parts
+    url: articles/parts
     desc: Pretty self explanitory
 
   - title: Buying your PC
