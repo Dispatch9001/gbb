@@ -3,7 +3,7 @@ navbar_entries:
     url: about
 
 project_entries:
-  - title: Should I get a PC?
+  - title: Should you get a PC?
     url: articles/should-i-buy
     desc: If you are still on the fence about getting a PC, read this. If you are sure you want one, skip to First Steps.
 
@@ -12,13 +12,13 @@ project_entries:
     desc: The basics that you need to know before buying.
     highlight: START HERE
 
-  - title: What parts do you need?
+  - title: What operating system should you use?
     url: articles/parts
-    desc: Pretty self explanitory
+    desc: Windows, macOS or Linux?
 
   - title: Buying your PC
     url: overview-post
-    desc: Where to buy the actual computer
+    desc: A buyers
 
   - title: Tweaking your system
     url: overview-post
