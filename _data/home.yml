@@ -13,12 +13,12 @@ project_entries:
     highlight: START HERE
 
   - title: What operating system should you use?
-    url: articles/parts
+    url: articles/os
     desc: Windows, macOS or Linux?
 
   - title: Buying your PC
-    url: overview-post
-    desc: A buyers
+    url: articles/buy
+    desc: A
 
   - title: Tweaking your system
     url: overview-post
