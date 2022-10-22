@@ -63,6 +63,13 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+video {
+  max-width: 100%;
+  /* Force Correct Aspect Ratio */
+  height: auto !important;
+}
+ 
 html {
     --bg: #FFF;
     --bg-secondary: #f8f8f8;

@@ -23,11 +23,11 @@ Custom PCs are what most professional gamers use. They actually buy all the part
 
 If you want an ultra low-budget custom PC, LinusTechTips made a great video series with some very helpful suggestions. Once again, I recommend you be cautious when buying second hand parts.
 <div align="center">
-  <iframe width="720" height="430"
+  <iframe width="100%" height="430"
   src="https://www.youtube.com/watch?v=xTAzwKiQ7Ns">
   </iframe>
 
-  <iframe width="720" height="430"
+  <iframe width="100%" height="430"
   src="https://www.youtube.com/watch?v=xTAzwKiQ7Ns">
   </iframe>
 </div>
