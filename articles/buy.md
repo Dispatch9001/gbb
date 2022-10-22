@@ -20,3 +20,10 @@ If you do need to go much cheaper, there are options below $500, but be warned, 
 Laptops are portable and easy to set up. They are also mass produced by a big company, who will usually offer great support and warrenty. They are good for someone who wants their system to "just work", as they do a lot of the hard work for you. They do have a few problems though. Laptops are infamous for higher price for lower performance compared to their desktop counterparts. While this is true, it is without mentioning that for a PC you need to buy more than the computer itself. You also need a keyboard, a mouse, a desk, a monitor and more. After you factor in the costs of those components, the price isn't that different. Laptops also are hard if not impossible to upgrade, because everything is so closely integrated and compacted to fit into a laptop.
 
 Custom PCs are what most professional gamers use. They actually buy all the parts and build it themselves. Since you are the maufacturer, you get to chose every part of the system. You can chose the specs to be the best for your budget, you can take advantage of individual parts being on sale, and you can upgrade it when you want to for as long as you want to. Custom PCs are often cheaper than the other options as you can buy second parts. They are not a solution for everyone though. Building a PC is not an easy process, and once you install you do not have the manufacturer support you get from a laptop. 
+
+If you want an ultra low-budget custom PC, LinusTechTips made a great video explaining it. Once again, I recommend you be cautious when buying second hand parts.
+<div align="center">
+  <iframe width="720" height="430"
+  src="https://www.youtube.com/embed/tgbNymZ7vqY">
+  </iframe>
+</div>
