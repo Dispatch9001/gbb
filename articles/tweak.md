@@ -24,7 +24,7 @@ src="https://piped.kavin.rocks/embed/watch?v=LR1XkjtylCM">
 - **[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)**: 
 I personally do not like the Windows 11 start menu. In 10, I had the tiles set up with all my apps, organised beautifully. Then when 11 came along I lost mÿ beautiful organisation to this embarrasment of a menu. 
 
-![Windows 11 Start Menu](/images/trashstart.png)
+![Windows 11 Start Menu](https://github.com/Dispatch9001/moonwalk/raw/master/images/trashstart.png)
 
 Then I found ExplorerPatcher. ExplorerPatcher is an open source program for patching Windows 11 UI elements. It is built for people like me who are disatisfied with Windows 11. It gives options to control most Windows 11 UI changes, with the ability to revert some features back to 10, 7 or even XP!
 
