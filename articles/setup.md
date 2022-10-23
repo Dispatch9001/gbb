@@ -24,9 +24,9 @@ If you bought a prebuilt PC or a laptop, you were likely sold a device with a lo
 The two main ways of removing manufacturer bloat are reinstalling Windows, and bulk uninstalling the apps. I recommend completly reinstalling Windows, because it is the only way to be completly sure all the bloat is gone. PCMag made a [great guide](https://www.pcmag.com/how-to/factory-reset-windows-10). **Make sure you remove everything**.
 
 If you don't want to reinstall, you can install [BCUninstaller](https://www.bcuninstaller.com/), and go through every app. If you don't think you want/need it, uninstall it. Be careful, do not uninstall a system app. To be safe, make sure to click "Create Restore Point" in the uninstall menu.
-![Create Restore Point](/images/bcu.png)
+![Create Restore Point](https://github.com/Dispatch9001/moonwalk/raw/master/images/bcu.png)
 After uninstalling, make sure you scan for leftovers.
-![Scan for leftovers](/images/bc2.png)
+![Scan for leftovers](https://github.com/Dispatch9001/moonwalk/raw/master/images/bc2.png)
 
 ### Removing Microsoft Bloat
 
@@ -37,18 +37,18 @@ First thing to do, remove all the pins from the start menu that you didnt add (I
 After that, there are still the annoying Microsoft background services. I use CTT WinUtil to remove them. To do that you:
 
 1. Open a Powershell window as administraitor. You can do this by clicking the windows button, searching powershell, and clicking "Run as Administraiter".
-![Run Powershell as Administraitor](/images/powershell.png)
+![Run Powershell as Administraitor](https://github.com/Dispatch9001/moonwalk/raw/master/images/powershell.png)
 2. Paste in the command `irm christitus.com/win | iex` and click enter.
-![Paste the command](/images/ps2.png)
+![Paste the command](https://github.com/Dispatch9001/moonwalk/raw/master/images/ps2.png)
 3. In the window that appears, navigate to the "Tweaks" tab
-![CTT WinUtil](/images/ctt.png)
+![CTT WinUtil](https://github.com/Dispatch9001/moonwalk/raw/master/images/ctt.png)
 4. Click the recommended suggestions for laptop or desktop (depending on what you have)
 5. If you want to use 7-zip in Windows 11, enable classic right click menu
 6. If you want to uninstall Cortana or Edge, tick the respective boxes. **WARNING**: You should not uninstall Edge unless you are an advanced user. Many newer apps use Edge Webview as an alternative to electron, meaning that a rapidly growing number of apps will not work on your system at all. Proceed with caution.
 7. Click "Run Tweaks"
 
 Edge is a little more annoying to avoid. If you have installed a different browser and never want to see Edge again, there is a good app for you. [MS Edge Redirect](https://github.com/rcmaehl/MSEdgeRedirect) is an app which does exactly what you would imagine. Whenever your computer goes to start Edge (for example, the web search inside Windows Search which ignores your default browser), it will stop edge from starting, and open the URL in your default browser. It works with Edge uninstalled (with the uninstaller inside WinUtil), but it prefers Edge still being installed. It also has a bunch of nice quality of life features, like redirecting bing searches to a search engine of your choice. Unlike completly uninstalling Edge, it still lets Edge Webview apps work.
-![MS Edge Redirect](/images/edgy.png)
+![MS Edge Redirect](https://github.com/Dispatch9001/moonwalk/raw/master/images/edgy.png)
 
 ## Getting/Updating apps
 
@@ -58,13 +58,13 @@ Run steps 1 and 2 from the Removing Microsoft Bloat section to start WinUtil.
 
 On the first tab, you have a menu where you can install a bunch of common apps. From here you can install any apps you want use. If you don't know what you want, I suggest you get a browser (I chose Firefox), Discord, the Epic Games Store, Steam, all of the .NET Desktop runtimes, the 64 bit Visual C++, VLC, ImageGlass (an alternative image viewer with support for more image formats), ONLYOffice (A free Microsoft 365 alternative) and 7-zip. 7-zip doesn't work well with Windows 11 (unless you did the right click menu tweak explained in the removing microsoft bloat section). There is an alternative called Nanazip. You can get Nanazip either through the Microsoft store, or the command `winget install M2Team.NanaZip`. 
 
-![Selections](/images/winutil.png)
+![Selections](https://github.com/Dispatch9001/moonwalk/raw/master/images/winutil.png)
 
 If there are any apps you want that are not in WinUtil, there are three more ways to get them.
 
 - Advanced users can use Winget directly in the command line, It is pretty easy once you get the hang of it.
-![Installing Chrome in Winget](/images/winget.png)
+![Installing Chrome in Winget](https://github.com/Dispatch9001/moonwalk/raw/master/images/winget.png)
 - There are a multitude of Winget front ends to make it easy to use. I personally recommend [WingetUI](https://github.com/martinet101/WingetUI) (It's a desktop app with a great updater for your apps and [scoop](https://scoop.sh/) support) or [Winstall](https://winstall.app/) (A website with a much nicer UI, but it still requires you to copy and paste commands into the command prompt and is a bit buggy).
-![UI](/images/ui.png)
+![UI](https://github.com/Dispatch9001/moonwalk/raw/master/images/ui.png)
 - You can do it "the old fashioned way" of going to the website and downloading this. When doing this please be smart. Do not download the apps from unofficial websites, and **do not click ads that look like a download button**.
-![Chrome](/images/chrome.png)
+![Chrome](https://github.com/Dispatch9001/moonwalk/raw/master/images/chrome.png)
