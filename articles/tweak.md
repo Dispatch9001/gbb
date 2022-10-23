@@ -16,13 +16,10 @@ Microsoft Powertoys is a suite of experimental tools for Windows power users. Po
 - **[NVCleanstall](https://www.techpowerup.com/nvcleanstall/)**
 NVCleanstall is an alterntive installer for NVIDIA graphics drivers. It lets you completly customise the drivers, removing the bloaty features and (slightly) improving performance
 Guide:
-<div align="center">
-  <iframe width="100%" height="360"
-  src="https://piped.kavin.rocks/embed/watch?v=LR1XkjtylCM"
-  </iframe>
-</div>
 
-
+<iframe width="100%" height="360"
+src="https://piped.kavin.rocks/embed/watch?v=LR1XkjtylCM">
+</iframe>
 
 - **[ExplorerPatcher](https://github.com/valinet/ExplorerPatcher)**
 I personally do not like the Windows 11 start menu. In 10, I had the tiles set up with all my apps, organised beautifully. Then when 11 came along I lost mÿ beautiful organisation to this embarrasment of a menu. 
