@@ -21,13 +21,13 @@ Laptops are portable and easy to set up. They are also mass produced by a big co
 
 Custom PCs are what most professional gamers use. They actually buy all the parts and build it themselves. Since you are the maufacturer, you get to chose every part of the system. You can chose the specs to be the best for your budget, you can take advantage of individual parts being on sale, and you can upgrade it when you want to for as long as you want to. Custom PCs are often cheaper than the other options as you can buy second parts. They are not a solution for everyone though. Building a PC is not an easy process, and once you install you do not have the manufacturer support you get from a laptop. 
 
-If you want an ultra low-budget custom PC, LinusTechTips made a great video series with some very helpful suggestions. Once again, I recommend you be cautious when buying second hand parts.
+If you want an ultra low-budget custom PC, LinusTechTips made a great video series with some very helpful suggestions. Once again, I recommend you be cautious when buying second hand parts. 
+(These videos are played through Piped, a YouTube frontend that includes ad and sponser segment blocking)
 <div align="center">
-  <iframe width="100%" height="430"
-  src="https://www.youtube.com/embed/watch?v=xTAzwKiQ7Ns">
+  <iframe width="100%" height="360"
+  src="https://piped.kavin.rocks/embed/watch?v=xTAzwKiQ7Ns">
   </iframe>
-
-  <iframe width="100%" height="430"
-  src="https://www.youtube.com/embed/watch?v=xTAzwKiQ7Ns">
+  <iframe width="100%" height="360"
+  src="https://piped.kavin.rocks/embed/watch?v=YLC9rZ2e0Ms">
   </iframe>
 </div>
