@@ -5,12 +5,7 @@ navbar_entries:
 project_entries:
   - title: Should you get a PC?
     url: articles/should-i-buy
-    desc: If you are still on the fence about getting a PC, read this. If you are sure you want one, skip to First Steps.
-
-  - title: First Steps into PC Gaming
-    url: articles/first-steps
-    desc: The basics that you need to know before buying.
-    highlight: START HERE
+    desc: If you are still on the fence about getting a PC, read this.
 
   - title: What operating system should you use?
     url: articles/os
@@ -18,14 +13,14 @@ project_entries:
 
   - title: Buying your PC
     url: articles/buy
-    desc: A
+    desc: Purchasing a computer.
 
   - title: Tweaking your system
-    url: overview-post
+    url: articles/setup
     desc: Getting your apps and making your PC yours.
 
   - title: Advanced tweaks
-    url: overview-post
+    url: articles/tweak
     desc: For those who want better privacy, or just more control of their system.
     highlight: OPTIONAL
 
