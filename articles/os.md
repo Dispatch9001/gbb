@@ -30,6 +30,6 @@ This guide is focused on Windows, so if you are choosing one of the other OS's m
 
 ## Budget
 
-Next you have to chose a budget for your setup. Simply put, the more you pay, the better PC you get.
+Next, you have to choose a budget for your setup. Simply put, the more you pay, the better PC you get.
 
-A good starting budget is $1200 (AUD). For that price, you can get an entry level gaming PC that can play most games relativly well. PCs will gradually get better until you hit the $5000 dollar mark, where you are getting the best of the best. My PC costed $1100, but that was before the [chip shortage](https://www.pcmag.com/news/inside-the-gpu-shortage-why-you-still-cant-buy-a-graphics-card) that has made everything more expensive. Thanks to [the Ethereum Merge](https://ethereum.org/en/upgrades/merge/), GPU prices are now starting to drop and hundreds of second hand cards are becoming avalible for purchase, because GPU intensive crypto mining is no longer profitable. 
+A good starting budget is $1200 (AUD). For that price, you can get an entry-level gaming PC that can play most games relatively well. PCs will gradually get better until you hit the $5000 dollar mark, where you are getting the best of the best. My PC costed $1100, but that was before the [chip shortage](https://www.pcmag.com/news/inside-the-gpu-shortage-why-you-still-cant-buy-a-graphics-card) that has made everything more expensive. Thanks to [the Ethereum Merge](https://ethereum.org/en/upgrades/merge/), GPU prices are now starting to drop and hundreds of second hand cards are becoming available for purchase because GPU intensive crypto mining is no longer profitable.
