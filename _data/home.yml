@@ -25,11 +25,11 @@ project_entries:
     highlight: OPTIONAL
 
   - title: Getting games
-    url: overview-post
+    url: articles/games
     desc: Where to get games, recommended games, etc.
 
   - title: What next?
-    url: overview-post
+    url: articles/next
     desc: What to do next
 
 old_project_entries:
