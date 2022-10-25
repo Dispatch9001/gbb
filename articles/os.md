@@ -10,7 +10,7 @@ The next big part of PC gaming is choosing your operating system. Traditionally,
 
 Most people should definitely go with Windows. Windows has been the industry standard for decades, and most if not all games are made with Windows as the target. It has the greatest hardware support, and the largest user base. It has likely been preinstalled on every desktop or laptop computer you have ever purchased (unless you bought a Mac). 
 
-![windows](https://github.com/Dispatch9001/moonwalk/raw/master/images/win.png)
+![windows](https://raw.githubusercontent.com/Dispatch9001/moonwalk/master/images/win.png)
 
 Windows is not perfect, as it is bloated, slow, and the whole OS is practically an ad for Microsoft Edge and Microsoft 365.
 
@@ -18,7 +18,7 @@ Windows is not perfect, as it is bloated, slow, and the whole OS is practically 
 
 I do not recommend macOS for gaming to anyone. Apple seems to be actively avoiding making macOS a gaming platform. Due to macOS's lack of Vulkan (The graphics engine behind most AAA games) support, many high-end games will not be possible to run (despite [community efforts](https://moltengl.com/moltenvk/)). That's without mentioning that to legally run macOS, you need one of Apple's insanely overpriced devices, and the new M1/2 chips ARM processors requiring x86 emulation (with a significant performance loss) to play any games that have not been ported yet.
 
-![macOS](https://github.com/Dispatch9001/moonwalk/raw/master/images/mac.webp)
+![macOS](https://raw.githubusercontent.com/Dispatch9001/moonwalk/master/images/mac.webp)
 (Image from The Verge)
 
 ## Linux
