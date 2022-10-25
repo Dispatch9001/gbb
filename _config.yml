@@ -6,7 +6,7 @@ description: > # description of the site (multiple lines allowed)
 
 permalink: /:slug
 
-favicon: "./logo.png" # relative path to site's favicon
+# favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
     username: # update or delete this
@@ -17,8 +17,8 @@ remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
-  appearance_toggle: false # if appearance can be switched by user
-  back_home_text: "Return to Home" # customize text for homepage link in post layout
+  appearance_toggle: true # if appearance can be switched by user
+  back_home_text: "Back to home" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar

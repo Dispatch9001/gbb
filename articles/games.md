@@ -50,7 +50,7 @@ I actually develop a modpack for Prism Launcher (GDLauncher release coming soon)
 
 ## Emulation
 
-> "Sometimes the best games on PC are not even PC games" - TheMan, 2022
+> "I think the best games on PC are not even PC games" - TheMan, 2022
 
 For many people, their favourite games on PC are emulated games from other devices. The retro console emulation community is massive, and it is fun to beat up mobile gamers with a keyboard and mouse. (***Disclaimer, I mean beating them in game using your PC peripherals as an advantage. I do not condone violence against mobile gamers***).
 
