@@ -12,6 +12,7 @@ Cost is the biggest problem in PC gaming. PCs are incredibly expensive compared 
 
 ![Cold, hard cash LMAO](https://upload.wikimedia.org/wikipedia/commons/f/f9/Money_Cash.jpg)
 (Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Money_Cash.jpg))
+
 An important note is that console gaming is nowhere near as cheap as it used to be. As of writing, a PS5 costs $800, and it still is suffering from regular price hikes. Consoles also require expensive subscriptions to play games online with your friends. Put that on top of Spotify and Netflix subscriptions, you are emptying your pockets every month for entertainment. On PC, most games are one-time purchases, and do not require sneaky subscriptions to play.
 
 If you are comfortable with the cost of PC's, then you have passed the biggest gatekeeper.
