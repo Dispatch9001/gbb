@@ -21,6 +21,9 @@ Laptops are portable and easy to set up. They are also mass-produced by a big co
 
 Custom PCs are what most professional gamers use. They actually buy all the parts and build it themselves. Since you are the manufacturer, you get to choose every part of the system. You can choose the specs to be the best for your budget, you can take advantage of individual parts being on sale, and you can upgrade it when you want to for as long as you want to. Custom PCs are often cheaper than the other options, as you can buy second parts. They can also be faster, because you can buy hardware designed for overclocking. They are not a solution for everyone, though. Building a PC is not an easy process, and once you install, you do not have the manufacturer support you get from a laptop. You do not always have to make a custom PC yourself, though. There are companies which build PCs with parts you choose, therefore bringing all the advantages of a custom PC without the hassle of building. That comes at the cost of, well, the actual cost. Buying a custom-built PC means you are not just paying for the PC, but also paying people to build it. That's how I got my PC, from a company called [Techfast](https://techfast.com.au/).
 
+![My Setup](https://github.com/Dispatch9001/moonwalk/raw/master/images/desktop.jpg)
+(My current setup)
+
 Pre-built PCs are the middle ground between the two. You buy a desktop PC from a company who (usually) offers support and warranty. (Most) prebuilt computers are still upgradable and powerful. They are usually more expensive than it would be to build yourself, because you are also paying the manufacturing costs. 
 
 If you do not care about portability, I think you should get either a pre-built or order a custom-built PC. If portability is something you really care about, then go with a laptop.
