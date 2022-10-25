@@ -10,6 +10,8 @@ The next big part of PC gaming is choosing your operating system. Traditionally,
 
 Most people should definitely go with Windows. Windows has been the industry standard for decades, and most if not all games are made with Windows as the target. It has the greatest hardware support, and the largest user base. It has likely been preinstalled on every desktop or laptop computer you have ever purchased (unless you bought a Mac). 
 
+![windows](/images/win.png)
+
 Windows is not perfect, as it is bloated, slow, and the whole OS is practically an ad for Microsoft Edge and Microsoft 365.
 
 ## macOS
@@ -21,6 +23,8 @@ I do not recommend macOS for gaming to anyone. Apple seems to be actively avoidi
 The third choice is Linux. I run Linux on my devices, and I love it. For most people - unless you are willing to spend a lot of time learning the system - Linux is not the right choice.
 
 Think of Linux as a base for an operating system, as in you don't run it alone. You need to choose a Linux-based operating system (called a distro) to run it. There are hundreds of distros, and all of them have targeted use cases. Linux does have many advantages over the completion, as it is FOSS (Free and Open Source Software), powerful, unrestricted, performs considerably better, and is infinitely more customisable than the alternatives. Linux gaming is not perfect yet though, it will require a lot of troubleshooting, learning and general time from anyone willing to try it.
+
+!
 
 Keep in mind these negatives are rapidly changing, as Valve (the company behind steam) is actively making more games run on Linux with less user effort for their Steam Deck (a portable console running Linux, kind of like a Switch), and all those enhancements also improve general desktop Linux.
 
