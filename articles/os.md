@@ -38,9 +38,3 @@ Keep in mind these negatives are rapidly changing, as Valve (the company behind 
 ---
 
 This guide is focused on Windows, so if you are choosing one of the other OS's most of this guide will not help you. If you are choosing macOS, I would read [PC Gamers Mac Gaming Guide](https://www.pcgamer.com/pc-gamers-guide-to-gaming-on-a-mac/). If you want to go the Linux route, the Linux Gaming community on Reddit has put together a great [wiki](https://linux-gaming.kwindu.eu/index.php?title=Getting_started_with_Linux) with all the information you need.
-
-## Budget
-
-Next, you have to choose a budget for your setup. Simply put, the more you pay, the better PC you get.
-
-A good starting budget is $1200 (AUD). For that price, you can get an entry-level gaming PC that can play most games relatively well. PCs will gradually get better until you hit the $5000 dollar mark, where you are getting the best of the best. My PC costed $1100, but that was before the [chip shortage](https://www.pcmag.com/news/inside-the-gpu-shortage-why-you-still-cant-buy-a-graphics-card) that has made everything more expensive. Thanks to [the Ethereum Merge](https://ethereum.org/en/upgrades/merge/), GPU prices are now starting to drop and hundreds of second hand cards are becoming available for purchase because GPU intensive crypto mining is no longer profitable.
