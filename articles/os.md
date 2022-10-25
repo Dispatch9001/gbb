@@ -29,7 +29,9 @@ Think of Linux as a base for an operating system, as in you don't run it alone. 
 
 Here are some examples of cool Linux setups. The first one is Garuda (I do not recommend this distro, but it looks pretty nice so I am showing it anyway), and the second is u/Axarva27's beautiful setup based on Arch Linux.
 
-![Garuda Linux](https://garudalinux.org/images/garuda/download/dr460nized/garuda-dr460nized.webp) ![u/Axarvia27](https://i.redd.it/ptbibz0gdk861.png)
+![Garuda Linux](https://garudalinux.org/images/garuda/download/dr460nized/garuda-dr460nized.webp) 
+
+![u/Axarvia27](https://i.redd.it/ptbibz0gdk861.png)
 
 Keep in mind these negatives are rapidly changing, as Valve (the company behind steam) is actively making more games run on Linux with less user effort for their Steam Deck (a portable console running Linux, kind of like a Switch), and all those enhancements also improve general desktop Linux.
 
