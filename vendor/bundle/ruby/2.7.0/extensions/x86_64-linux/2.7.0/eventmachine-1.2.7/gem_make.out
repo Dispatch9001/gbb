@@ -1,11 +1,11 @@
-current directory: /mnt/c/Users/Darkblade/Documents/Websites/TheModernGamer/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
-/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20221019-180-evfpod.rb extconf.rb
+current directory: /home/darkb/websites/gbb/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby2.7 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20221031-310-xjh1t4.rb extconf.rb
 creating Makefile
 
-current directory: /mnt/c/Users/Darkblade/Documents/Websites/TheModernGamer/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /home/darkb/websites/gbb/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make DESTDIR\= clean
 
-current directory: /mnt/c/Users/Darkblade/Documents/Websites/TheModernGamer/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /home/darkb/websites/gbb/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make DESTDIR\=
 compiling mapper.cpp
 compiling rubymain.cpp
@@ -102,6 +102,6 @@ In file included from /usr/include/ruby-2.7.0/ruby/ruby.h:2863,
       | ^~~~~~~~~~~~~~~~
 linking shared-object fastfilereaderext.so
 
-current directory: /mnt/c/Users/Darkblade/Documents/Websites/TheModernGamer/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+current directory: /home/darkb/websites/gbb/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20221019-180-1ij8pbj
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20221031-310-lotprj

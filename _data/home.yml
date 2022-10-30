@@ -2,35 +2,38 @@ navbar_entries:
   - title: about
     url: about
 
+  - title: blog
+    url: blog
+
+  - title: website
+    url: https://www.abhinav.co
+
 project_entries:
-  - title: Should you get a PC?
-    url: articles/should-i-buy
-    desc: If you are still on the fence about getting a PC, read this.
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
 
-  - title: What operating system should you use?
-    url: articles/os
-    desc: Windows, macOS or Linux?
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
 
-  - title: Buying your PC
-    url: articles/buy
-    desc: Purchasing a computer.
+  - title: Project 3
+    url: overview-post
+    desc: You can control visibility from _config.yml file
 
-  - title: Tweaking your system
-    url: articles/setup
-    desc: Getting your apps and making your PC yours.
+  - title: Project 4
+    url: overview-post
+    desc: This project uses highlight markup, configured in _data/home.yml
+    highlight: WIP
 
-  - title: Advanced tweaks
-    url: articles/tweak
-    desc: For those who want better privacy, or just more control of their system.
-    highlight: OPTIONAL
+  - title: Project 5
+    url: overview-post
+    desc: Moonwalk also has horizontal list (used in header and footer)
+    highlight: WIP
 
-  - title: Getting games
-    url: articles/games
-    desc: Where to get games, recommended games, etc.
-
-  - title: What next?
-    url: articles/next
-    desc: What to do next
+  - title: Project 6
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: Soopr
@@ -51,18 +54,21 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: a pretty sick placeholder.
+  - title: abhinav's homepage
     url: https://www.abhinav.co
 
-  - title: my github
-    url: https://github.com/Dispatch9001
+  - title: twitter
+    url: https://twitter.com/abhinav
 
-  - title: placeholder the second
+  - title: github
+    url: https://github.com/abhinavs
+
+  - title: feed
     url: feed.xml
 
 misc_entries:
-  - title: Test
-    url: overview-post
+  - title: this is an example vertical list
+    url: false
 
   - title: you can show or hide using a boolean flag in _config.yml
     url: false
@@ -71,7 +77,7 @@ misc_entries:
     url: false
 
   - title: Blog posts
-    post_list: false
+    post_list: true
     url: false
 
   - title: moonwalk on the Internet
