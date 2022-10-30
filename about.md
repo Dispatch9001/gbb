@@ -3,6 +3,5 @@ layout: post
 title: About
 ---
 
-This is an example page!
+Due on the 27/10/22
 
-Actually, it has the same layout of a post...
